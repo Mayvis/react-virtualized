@@ -1,10 +1,9 @@
 {
   "name": "react-virtualized",
   "description": "React components for efficiently rendering large, scrollable lists and tabular data",
-  "author": "Brian Vaughn <brian.david.vaughn@gmail.com>",
-  "user": "bvaughn",
+  "author": "Mayvis Chen <kevin73911@gmail.com>",
+  "user": "mayvis",
   "version": "9.22.4",
-  "homepage": "https://github.com/bvaughn/react-virtualized",
   "main": "dist/commonjs/index.js",
   "module": "dist/es/index.js",
   "jsnext:main": "dist/es/index.js",
@@ -47,7 +46,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bvaughn/react-virtualized.git"
+    "url": "https://github.com/Mayvis/react-virtualized.git"
   },
   "keywords": [
     "react",
